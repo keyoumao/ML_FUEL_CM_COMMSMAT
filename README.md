@@ -4,7 +4,7 @@
 
 ## Title
 ## Identifying chemically similar multiphase nanoprecipitates in compositionally complex non-equilibrium oxides via machine learning
-
+![alt text](https://github.com/keyoumao/ML_FUEL_CM_COMMSMAT/blob/main/Figure%203.png)
 Journal
 Communications Materials
 
