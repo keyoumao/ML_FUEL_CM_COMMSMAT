@@ -33,4 +33,4 @@ This article can be cited by its DOI 10.1038/s43246-022-00244-4 in the following
 Author, Journal Title, Year, DOI
 
 If you have any questions, you could reach out to the corresponding authors in this paper. 
-Correspondence and requests for materials should be addressed to Keyou S. Mao, (kmao@eng.famu.fsu.edu); Tyler J. Gerczak, (gerczaktj@ornl.gov); Chad M. Parish, (parishcm@ornl.gov;) or Philip D. Edmondson (edmondsonpd@ornl.gov).
+Correspondence and requests for materials should be addressed to Keyou S. Mao, (keyou@atlantianintelligence.com); Tyler J. Gerczak, (gerczaktj@ornl.gov); Chad M. Parish, (parishcm@ornl.gov;) or Philip D. Edmondson (philip.edmondson@manchester.ac.uk).
